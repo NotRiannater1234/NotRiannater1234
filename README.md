@@ -12,4 +12,4 @@
 
 ### 📝 Check Below!
 
-<img align="left" alt="Riannater1234's Github Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)" />
+<img align="left" alt="Riannater1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
