@@ -5,11 +5,10 @@
 - 🧑‍💼    I currently work as a SysAdmin for RPRE!
 - 🏫    I know, it's weird, but I love to learn how programming works, and how it converts to daily life!
 
-<br />
-<br />
-
 ---
 
 ### 📝 Check Below!
 
-<img align="left" alt="Riannater1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+---
+
+<img align="left" alt="Riannater1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NotRiannater1234" />
