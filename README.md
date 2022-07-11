@@ -11,4 +11,4 @@
 
 ---
 
-<img align="left" alt="Riannater1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NotRiannater1234" />
+<img align="left" alt="My Github Stats :)" src="https://github-readme-stats.vercel.app/api?username=NotRiannater1234&show_icons=true&theme=radical" />
